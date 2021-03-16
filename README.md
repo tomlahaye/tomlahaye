@@ -9,4 +9,4 @@ Im Tom, 17 years old, French Computer Technician Apprentice.
     - [Dev-Time](https://dev-time.eu), a social network for developers, I create the front-end of the website.
     
   - Game Development :
-    - [Neon Ship](https://play.google.com/store/apps/details?id=com.bluejuicestd.neonship&hl=fr&gl=US), a arcade game originally developed on Construct 2, I’m currently developing a new update on Unity 3D.
+    - [Neon Ship](https://play.google.com/store/apps/details?id=com.bluejuicestd.neonship&hl=fr&gl=US), a arcade game originally developed on Construct 2, I’m currently developing a new update on Unity 3D for my game studio [Blue Juice Studio](https://github.com/bluejuicestudio).
