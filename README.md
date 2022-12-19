@@ -6,4 +6,5 @@ Im Tom, 19 years old, French Computer Technician Apprentice.
 
   - Web Development :
     - [La Rubrique Du Geek](https://larubriqueudgeek.fr), a website for publishing tutorials on computers and electronics, I'm the founder and i develop it.
-    - [Razicord](https://razicord.com), a platform to reference your discord servers and bots.
+  - Game Development :
+    - [Blue Juice Studio](https://github.com/bluejuicestudio), my independent video game studio.
