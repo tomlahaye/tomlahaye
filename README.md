@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Tom, 19 years old, French Computer Technician Apprentice.
+Im Tom, 20 years old, French Computer Technician Apprentice.
 
 - 🔭 I’m currently working on :
 
