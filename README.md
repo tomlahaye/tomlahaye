@@ -6,7 +6,7 @@ Im Tom, 20 years old, im an Application Developer Apprentice.
 
   - Web Development :
     - **La Rubrique Du Geek**, website for publishing tutorials on computers, electronics and developement.
-    - **OmniBRidge**, software to link EuroTruck Simulator 2 with the [OmniGamesHub](https://oghub.fr/) platform.
+    - **OmniBridge**, software to link EuroTruck Simulator 2 with the [OmniGamesHub](https://oghub.fr/) platform.
 
   - Game Development :
     - [Blue Juice Studio](https://github.com/bluejuicestudio), my independent video game studio.
